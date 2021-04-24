@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Axel",
+      "time": "20 Agustus 2021",
+      "header": "Cuaca Hari Ini",
+      "news": "Lorem ipsum door sit amet, consectetur adipiscing elit, sed do eiusmod temporary incididunt it labor at dolore magna aliqua. It enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi it aliquip ex ea commodo consequat. Duis Aute irure dolore in reprehenderit in volupate velit essentially cillum dolore eu fugiat nulla pariatur.",
+      "id": 4
+    },
+    {
+      "name": "BTRXTensor",
+      "time": "10 July 2022",
+      "header": "Ikan Bisa Berenang",
+      "news": "Lorem ipsum door sit amet, consectetur adipiscing elit, sed do eusmod temporary incididunt it labor at dolore magna aliqua. It enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi it aliquip ex ea commodo consequat. Duis Aute irure dolore in reprehenderit in volupate velit essentially cillum dolore eu fugiat nulla pariatur.",
+      "id": 5
+    },
+    {
+      "name": "aku",
+      "time": "22 feb 2020",
+      "header": "dia",
+      "news": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+      "id": 6
+    }
+  ]
+}
